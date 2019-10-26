@@ -13,5 +13,34 @@ export default {
 </script>
 
 <style>
+input {
+    height: 50px!important;
+}
 
+.form-text:hover {
+    color: #fff;
+}
+.first-input-register {
+    border-radius: 10px 10px 0px 0px;
+}
+
+input.form-control:hover {
+    border: 3px solid #ffff00;
+    color: black;
+}
+
+.last-input-register {
+    border-radius: 0px 0px 10px 10px;
+}
+.form-control {
+    border: none;
+    color: black;
+    border-bottom: 1px solid black;
+    font-size: 1.6em;
+}
+
+.form-text {
+    font-size: 0.8em;
+      color:#fff;
+}
 </style>
