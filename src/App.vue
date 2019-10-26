@@ -15,7 +15,7 @@ export default {
 }
 
 // ({
-//   el:'#app',
+//   el: '#app',
 //   data:{
 //     colorScheme:"dark"
 //   }

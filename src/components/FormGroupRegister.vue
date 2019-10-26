@@ -1,12 +1,5 @@
 <template>
-   <div class="container" id="registeracount">
-            <form>
-                <div class="title-login">
-                    <img src="images/logo.png" alt="logo" class="logo">
-                    <h1>Registra tu Perfil</h1>
-                    <h2>Comienza a organizar eventos de alto impacto</h2>
-                </div>
-                <div class="form-group">
+ <div class="form-group-register">
                     <small>Sobre ti</small>
                     <input type="text" class="form-control input-group-lg first-input-register" placeholder="Primero Nombre">
                     <input type="text" class="form-control input-group-lg medium-input-register" placeholder="Primer Apellido">
@@ -28,25 +21,63 @@
                         <input class="form-check-input" type="radio" value="option2">
                         <label class="form-check-label">
                         Organizador
-                        </label>
+                    </label>
                     </div>
 
                 </div>
-                <button type="submit" class="btn btn-yellow form-control">
-                Regístra tu perfil</button>
-                <a href="#" class="form-text">¿Ya tienes una cuenta?</a>
-            </form>
-        </div>
 </template>
 
 <script>
 export default {
-  name: 'RegisterAcount'
+  name: 'FormGroup'
 }
 </script>
 
 <style>
-.form-check-label{
-    font-size: 100em!important;
+input {
+    height: 50px!important;
+    font-size: 1.3em!important;
 }
+
+.form-text:hover {
+    color: #fff;
+}
+.first-input-register {
+    border-radius: 10px 10px 0px 0px;
+}
+
+input.form-control:hover {
+    border: 3px solid #ffff00;
+    color: black;
+}
+
+.last-input-register {
+    border-radius: 0px 0px 10px 10px;
+}
+input.form-control {
+    padding: 15px 15px 15px 15px;
+}
+
+.form-control {
+    border: none;
+    color: black;
+    border-bottom: 1px solid black;
+}
+small {
+    font-size: .8em;
+    color:#fff;
+}
+label {
+    font-size: .8em;
+    color:#fff;
+}
+
+.medium-input-register {
+    border-radius: 0px 0px 0px 0px;
+}
+
+.last-input-register {
+    border-radius: 0px 0px 10px 10px;
+}
+
 </style>

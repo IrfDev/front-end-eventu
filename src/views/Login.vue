@@ -5,9 +5,9 @@
   <logo/>
         <form class="form-body">
           <TitleInitial />
-          <FormGroupRegister />
+          <FormGroup />
           <Button />
-          <a href="/login" class="form-text">¿Ya tienes una cuenta?</a>
+          <a href="/register" class="form-text">¿Aun no creas una cuenta?</a>
         </form>
     </div>
   </div>
@@ -16,7 +16,7 @@
 
 <script>
 import Logo from '../components/LogoImage'
-import FormGroupRegister from '../components/FormGroupRegister'
+import FormGroup from '../components/FormGroup'
 import Background from '../components/Background'
 import TitleInitial from '../components/TitleInitial'
 import Button from '../components/Button'
@@ -25,7 +25,7 @@ export default {
   name: 'Index',
   components: {
     Logo,
-    FormGroupRegister,
+    FormGroup,
     Background,
     TitleInitial,
     Button
@@ -36,9 +36,10 @@ export default {
 
 <style scoped>
 #background {
-    background: linear-gradient( rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.16)), url(../assets/bg-login.png);
+    background: linear-gradient( rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.16)), url(../assets/bg-loginn.jpg);
     background-size: cover;
-    height: 1000px!important;
+    height: 800px!important;
+    background-attachment: fixed;
 }
 body {
     margin: 0;
