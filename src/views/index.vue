@@ -1,36 +1,12 @@
 <template>
  <div id="index">
-<div class="background" id="background">
-  <div class="container">
-  <logo/>
-        <form class="form-body">
-          <TitleInitial />
-          <FormGroupRegister />
-          <Button />
-          <a href="/login" class="form-text">¿Ya tienes una cuenta?</a>
-        </form>
-    </div>
-  </div>
-  </div>
+
+</div>
 </template>
 
 <script>
-import Logo from '../components/LogoImage'
-import FormGroupRegister from '../components/FormGroupRegister'
-import Background from '../components/Background'
-import TitleInitial from '../components/TitleInitial'
-import Button from '../components/Button'
-
 export default {
-  name: 'Index',
-  components: {
-    Logo,
-    FormGroupRegister,
-    Background,
-    TitleInitial,
-    Button
-  }
-
+  name: 'Index'
 }
 </script>
 

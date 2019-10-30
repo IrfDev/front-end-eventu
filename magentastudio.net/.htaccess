@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^magentastudio\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.magentastudio\.net$
+RewriteRule ^(.*)$ "https\:\/\/www\.magentastudio\.net\/$1" [R=301,L]
+

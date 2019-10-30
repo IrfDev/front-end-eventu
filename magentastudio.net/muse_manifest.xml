@@ -1,0 +1,302 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="magentastudio.net" resolutions="1x" timestamp="1571789681964">
+  <folder name="assets">
+    <file name="magenta_logo_2010_final.png" crc="3922941492" seo="true" mt="1571439116000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="171393636"/>
+    <file name="master_a-master.css" crc="4002202390" ref="contact:index:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="500934664" ref="contact:index:about"/>
+    <file name="contact.css" crc="396876919" ref="contact"/>
+    <file name="nomq_contact.css" crc="4219095968" ref="contact"/>
+    <file name="index.css" crc="485500913" ref="index"/>
+    <file name="nomq_index.css" crc="376148611" ref="index"/>
+    <file name="about.css" crc="428610298" ref="about"/>
+    <file name="nomq_about.css" crc="284928879" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about:contact"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about:contact"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:about:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about:contact"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="about:contact"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u5124.php" crc="250576087" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:about:contact"/>
+    <file name="coffe.jpg" crc="461074097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apple.jpg" crc="3777063852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="tel.jpg" crc="3830776635" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tel-u1723-r-fr.png" crc="4210400158" ref="index"/>
+    <file name="main_pic.jpg" crc="3991372630" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_pic-u1901-r-fr.png" crc="4166980133" ref="index"/>
+    <file name="stats6.jpg" crc="3842447561" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stats6-u1883-r-fr.png" crc="3860788525" ref="index"/>
+    <file name="wallpaper_txsble_2.jpg" crc="3884056187" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper_txsble_2-u1949-r-fr.png" crc="273404075" ref="index"/>
+    <file name="coke.jpg" crc="4196294582" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="coke-u1977-r-fr.png" crc="4276610023" ref="index"/>
+    <file name="pyramid_mexicoshop.jpg" crc="4012131898" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pyramid_mexicoshop-u1996-r-fr.png" crc="124355618" ref="index"/>
+    <file name="aboutmain.jpg" crc="442523401" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6900.png" crc="3775111737" ref="index:about:contact"/>
+    <file name="u6900-r.png" crc="219151050" ref="index:about:contact"/>
+    <file name="u6900-a.png" crc="219151050" ref="index:about:contact"/>
+    <file name="u6897-4.png" crc="520879946" ref="index:about:contact"/>
+    <file name="main_pic-u1901-r-fr2.png" crc="4166980133" ref="index"/>
+    <file name="stats6-u1883-fr.jpg" crc="3834957767" ref="index"/>
+    <file name="stats6-u1883-r-fr2.png" crc="8353102" ref="index"/>
+    <file name="coke-u1977-fr.jpg" crc="3766181118" ref="index"/>
+    <file name="coke-u1977-r-fr2.png" crc="3776489756" ref="index"/>
+    <file name="aboutmain-u2036-fr.jpg" crc="4110241728" ref="index"/>
+    <file name="aboutmain-u2036-fr2.jpg" crc="68932559" ref="index"/>
+    <file name="stats6-u1883-fr2.jpg" crc="4242317039" ref="index"/>
+    <file name="stats6-u1883-r-fr3.png" crc="40282439" ref="index"/>
+    <file name="main_bg.jpg" crc="4158555500" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u2361-4.png" crc="284057165" ref="about"/>
+    <file name="u2374-4.png" crc="503762220" ref="about"/>
+    <file name="u2398-4.png" crc="3911754585" ref="about"/>
+    <file name="u2383-4.png" crc="93986365" ref="about"/>
+    <file name="u2411-4.png" crc="4224266330" ref="about"/>
+    <file name="u2423-4.png" crc="4008712831" ref="about"/>
+    <file name="u2447-4.png" crc="4263993986" ref="about"/>
+    <file name="u2453-4.png" crc="92027205" ref="about"/>
+    <file name="jared.jpg" crc="532970237" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="austin.jpg" crc="501575710" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="naomi.jpg" crc="4253016175" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo_tca_2015.png" crc="252822689" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="m2g.png" crc="433516339" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dra.png" crc="16376805" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="zoey.png" crc="4021503276" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="amc.png" crc="4004751532" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="main_bg-u2202-fr.jpg" crc="79577321" ref="about"/>
+    <file name="u2374-42.png" crc="503762220" ref="about"/>
+    <file name="u2361-42.png" crc="284057165" ref="about"/>
+    <file name="u2383-42.png" crc="93986365" ref="about"/>
+    <file name="u2398-42.png" crc="3911754585" ref="about"/>
+    <file name="u2411-42.png" crc="459729065" ref="about"/>
+    <file name="u2423-42.png" crc="779268" ref="about"/>
+    <file name="u2447-42.png" crc="4105067238" ref="about"/>
+    <file name="u2453-42.png" crc="15142070" ref="about"/>
+    <file name="main_bg-u2202-fr2.jpg" crc="24828726" ref="about"/>
+    <file name="u2411-43.png" crc="3829385755" ref="about"/>
+    <file name="u2423-43.png" crc="4009551851" ref="about"/>
+    <file name="u2447-43.png" crc="4135970546" ref="about"/>
+    <file name="u2453-43.png" crc="3980238736" ref="about"/>
+    <file name="u2361-43.png" crc="284057165" ref="about"/>
+    <file name="u2398-43.png" crc="3911754585" ref="about"/>
+    <file name="u2374-43.png" crc="503762220" ref="about"/>
+    <file name="u2383-43.png" crc="93986365" ref="about"/>
+    <file name="jared202x238.jpg" crc="418409" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="austin202x238.jpg" crc="485831503" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="naomi202x238.jpg" crc="3974092069" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo_tca_2015-u3026-fr.png" crc="4112960272" ref="about"/>
+    <file name="m2g-u3036-fr.png" crc="515483776" ref="about"/>
+    <file name="dra-u3039-fr.png" crc="4276569802" ref="about"/>
+    <file name="zoey-u3045-fr.png" crc="34808010" ref="about"/>
+    <file name="amc-u3042-fr.png" crc="3827347142" ref="about"/>
+    <file name="main_bg-u2202-fr3.jpg" crc="4256959117" ref="about"/>
+    <file name="u2374-44.png" crc="100144714" ref="about"/>
+    <file name="u2361-44.png" crc="86941223" ref="about"/>
+    <file name="u2383-44.png" crc="4229082893" ref="about"/>
+    <file name="u2398-44.png" crc="356799725" ref="about"/>
+    <file name="u2411-44.png" crc="377381641" ref="about"/>
+    <file name="u2447-44.png" crc="83961395" ref="about"/>
+    <file name="u2423-44.png" crc="4009913899" ref="about"/>
+    <file name="u2453-44.png" crc="234665459" ref="about"/>
+    <file name="logo_tca_2015-u3026-fr2.png" crc="55055359" ref="about"/>
+    <file name="m2g-u3036-fr2.png" crc="418812670" ref="about"/>
+    <file name="dra-u3039-fr2.png" crc="74094615" ref="about"/>
+    <file name="zoey-u3045-fr2.png" crc="341264561" ref="about"/>
+    <file name="amc-u3042-fr2.png" crc="4198019689" ref="about"/>
+    <file name="main_bg-u2202-fr4.jpg" crc="236329669" ref="about"/>
+    <file name="u2361-45.png" crc="4111386072" ref="about"/>
+    <file name="u2374-45.png" crc="43920992" ref="about"/>
+    <file name="u2398-45.png" crc="3803460803" ref="about"/>
+    <file name="u2383-45.png" crc="37861725" ref="about"/>
+    <file name="magenta_background_dark-u2329-fr.jpg" crc="230039646" ref="about"/>
+    <file name="u2411-45.png" crc="55487064" ref="about"/>
+    <file name="u2447-45.png" crc="4161860712" ref="about"/>
+    <file name="u2423-45.png" crc="265413908" ref="about"/>
+    <file name="u2453-45.png" crc="4252778667" ref="about"/>
+    <file name="logo_tca_2015-u3026-fr3.png" crc="3849847937" ref="about"/>
+    <file name="m2g-u3036-fr3.png" crc="237367834" ref="about"/>
+    <file name="dra-u3039-fr3.png" crc="3862918118" ref="about"/>
+    <file name="zoey-u3045-fr3.png" crc="4061171517" ref="about"/>
+    <file name="amc-u3042-fr3.png" crc="340321308" ref="about"/>
+    <file name="main_bg-u2202-fr5.jpg" crc="187076763" ref="about"/>
+    <file name="u2361-46.png" crc="141176884" ref="about"/>
+    <file name="u2374-46.png" crc="4142680601" ref="about"/>
+    <file name="u2398-46.png" crc="3835241793" ref="about"/>
+    <file name="u2383-46.png" crc="4281572666" ref="about"/>
+    <file name="magenta_background_dark-u2329-fr2.jpg" crc="240023815" ref="about"/>
+    <file name="u2411-46.png" crc="419724641" ref="about"/>
+    <file name="u2447-46.png" crc="481194653" ref="about"/>
+    <file name="u2423-46.png" crc="175108218" ref="about"/>
+    <file name="u2453-46.png" crc="29669132" ref="about"/>
+    <file name="logo_tca_2015-u3026-fr4.png" crc="143839578" ref="about"/>
+    <file name="m2g-u3036-fr4.png" crc="4030057123" ref="about"/>
+    <file name="dra-u3039-fr4.png" crc="465960624" ref="about"/>
+    <file name="zoey-u3045-fr4.png" crc="436666936" ref="about"/>
+    <file name="amc-u3042-fr4.png" crc="217203801" ref="about"/>
+    <file name="ye.jpg" crc="253476816" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="ye-u5089-fr.jpg" crc="283791019" ref="contact"/>
+    <file name="ye-u5089-fr2.jpg" crc="3898521726" ref="contact"/>
+    <file name="magenta_logo_final_2020.png" crc="4200425520" seo="true" ref="index:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="magenta_background_dark.png" crc="4027585439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="magenta_background_dark-u2329-fr3.jpg" crc="204182524" ref="about"/>
+    <file name="magenta_background_dark-u2329-fr4.jpg" crc="294385643" ref="about"/>
+    <file name="magenta_background_dark-u2329-fr5.jpg" crc="292447784" ref="about"/>
+    <file name="magenta_background_dark-u2329-fr6.jpg" crc="188918529" ref="about"/>
+  </folder>
+  <file name="index.html" crc="3760379113" seo="true" mt="1571789655687" redirect="true"/>
+  <file name="about.html" crc="3792590728" seo="true" mt="1571789673621" redirect="true"/>
+  <file name="contact.html" crc="3789958980" seo="true" mt="1571105992848" redirect="true"/>
+</manifest>
